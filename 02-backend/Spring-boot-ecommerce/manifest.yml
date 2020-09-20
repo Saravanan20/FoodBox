@@ -1,0 +1,7 @@
+applications:
+    - name: Foodbox-spring1
+      memory: 768M
+      instances: 1
+      path: target/spring-boot-starter-parent-2.3.3.RELEASE.jar
+      random-route: true
+      
